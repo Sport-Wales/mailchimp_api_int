@@ -11,7 +11,7 @@ You will not find an API key anywhere in this repository or commit history. You 
 
 ## Set up
 This app runs directly from user input in the console. Simply run the script in your terminal to begin the program.
-``
+```
 python3 src/mailchimp_app/app.py 
 ```
 
